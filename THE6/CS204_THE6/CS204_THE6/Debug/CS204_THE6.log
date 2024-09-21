@@ -1,0 +1,22 @@
+﻿Build started 12/26/2021 2:32:14 PM.
+     1>Project "C:\Users\HP\Documents\Visual Studio 2012\Projects\CS204_THE6\CS204_THE6\CS204_THE6.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\kaanalper_Odabasoglu_AlperKaan_HW6.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\kaanalper_Odabasoglu_AlperKaan_HW6.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CS204_THE6.cpp CS204_THE6Dlg.cpp
+         CS204_THE6Dlg.cpp
+         CS204_THE6.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\CS204_THE6.res" CS204_THE6.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\HP\Documents\Visual Studio 2012\Projects\CS204_THE6\Debug\kaanalper_Odabasoglu_AlperKaan_HW6.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\HP\Documents\Visual Studio 2012\Projects\CS204_THE6\Debug\kaanalper_Odabasoglu_AlperKaan_HW6.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\HP\Documents\Visual Studio 2012\Projects\CS204_THE6\Debug\kaanalper_Odabasoglu_AlperKaan_HW6.lib" /MACHINE:X86 Debug\CS204_THE6.res
+         Debug\CS204_THE6.obj
+         Debug\CS204_THE6Dlg.obj
+         Debug\stdafx.obj
+         CS204_THE6.vcxproj -> C:\Users\HP\Documents\Visual Studio 2012\Projects\CS204_THE6\Debug\kaanalper_Odabasoglu_AlperKaan_HW6.exe
+     1>Done Building Project "C:\Users\HP\Documents\Visual Studio 2012\Projects\CS204_THE6\CS204_THE6\CS204_THE6.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.85
